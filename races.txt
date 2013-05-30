@@ -1,0 +1,45 @@
+#############################
+# Season 2012/13 - Men
+
+
+(So) 28.Okt 2012  9.30  Riesenslalom / Sölden (A)
+
+(So) 11.Nov 2012 10.00  Slalom / Levi (FIN)
+(Sa) 24.Nov 2012 19.30  Abfahrt / Lake Louise (CAN)
+(So) 25.Nov 2012 19.00  Super-G / Lake Louise (CAN)
+(Fr) 30.Nov 2012 18.45  Abfahrt / Beaver Creek (USA)
+
+(Sa)  1.Dez 2012 19.00  Super-G / Beaver Creek (USA)
+(So)  2.Dez 2012 17.45  Riesenslalom / Beaver Creek (USA)
+(Sa)  8.Dez 2012 14.00  Slalom / Val d'Isere (FRA)
+(So)  9.Dez 2012  9.30  Riesenslalom / Val d'Isere (FRA)
+(Fr) 14.Dez 2012 12.15  Super-G / Gröden (I)
+(Sa) 15.Dez 2012 14.00  Abfahrt / Gröden (I)
+(So) 16.Dez 2012  9.30  Riesenslalom / Alta Badia (I)
+(Di) 18.Dez 2012 17.45  Slalom / Madonna di Campigliio (I)
+(Sa) 29.Dez 2012 11.45  Abfahrt / Bormio (I)
+
+(Di)  1.Jan 2013 17.45  München (D)           #### City Event
+(So)  6.Jan 2013 10.45  Slalom /  Zagreb (CRO)
+(Sa) 12.Jan 2013 10.30  Riesenslalom / Adelboden (CH)
+(So) 13.Jan 2013 10.30  Slalom / Adelboden (CH)
+(Fr) 18.Jan 2013 10.30  Kombination / Wengen (CH)
+(Sa) 19.Jan 2013 12.30  Abfahrt / Wengen (CH)
+(So) 20.Jan 2013 10.15  Slalom / Wengen (CH)
+(Fr) 25.Jan 2013 11.30  Super-G / Kitzbühel (A)
+(Sa) 26.Jan 2013 11.30  Abfahrt / Kitzbühel (A)
+(So) 27.Jan 2013 10.15  Slalom / Kitzbühel (A)
+(So) 27.Jan 2013 10.15  Combined / Kitzbühel (A)
+(Di) 29.Jan 2013 17.00  Moscow (RUS)           ### City Event
+
+(Sa) 23.Feb 2013 11.45  Abfahrt / Garmisch-Partenkirchen (D)
+(So) 24.Feb 2013 10.00  Riesenslalom / Garmisch-Partenkirchen (D)
+
+(Sa)  2.Mär 2013 11.45  Abfahrt / Kvitfjell (NOR)
+(So)  3.Mär 2013 11.00  Super-G / Kvitfjell (NOR)
+(Sa)  9.Mär 2013  9.30  Riesenslalom / Kranjska Gora (SLO)
+(So) 10.Mär 2013  9.30  Slalom / Kranjska Gora  (SLO)
+(Mi) 13.Mär 2013 14.00  Abfahrt / Lenzerheide (CH)
+(Do) 14.Mär 2013 13.00  Super-G / Lenzerheide (CH)        ### !! cancelled
+(Sa) 16.Mär 2013 10.00  Riesenslalom / Lenzerheide (CH)
+(So) 17.Mär 2013  9.00  Slalom / Lenzerheide (CH)

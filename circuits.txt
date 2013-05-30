@@ -1,0 +1,57 @@
+#################
+# todo: use tracks.txt insteaod of circuits.txt
+#   - check what fits best
+
+#### todo: add region e.g. T,V,BY, etc. see world.db for region keys
+
+
+Sölden, at
+Kitzbühel, at
+Semmering, at
+St. Anton, at
+Flachau,at
+
+
+München, de   # City Event
+Garmisch-Partenkirchen, de
+Ofterschwang, de
+
+
+Adelboden, ch
+Wengen, ch
+Lenzerheide, ch
+St. Moritz, ch
+
+
+Gröden, it
+Alta Badia, it
+Madonna di Campigliio, it
+Bormio, it
+Cortina d'Ampezzo, it
+
+
+Val d'Isere, fr
+Courchevel, fr
+Meribel, fr
+
+Kranjska Gora, sl   # SLO
+Maribor, sl
+
+Zagreb, hr  # CRO
+
+Kvitfjell, no
+
+Are, se
+
+Levi, fi
+
+Moscow, ru    # City Event
+
+##################
+# North Amercia
+
+Lake Louise, ca
+
+Beaver Creek, us
+Aspen, us
+
