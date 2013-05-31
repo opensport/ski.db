@@ -1,0 +1,9 @@
+
+dh, Downhill
+sg, Super G|Super Giant Slalom
+gs, Giant Slalom
+sl, Slalom
+p,  Parallel Slalom|Parallel|City Event   # use ce for key - why? why not?
+sc, Combined|Super Combined
+te, Nations Team Event    # use just t for key - why? why not?
+

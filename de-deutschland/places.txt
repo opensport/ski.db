@@ -1,0 +1,9 @@
+#################################
+# Deutschland - de
+
+München                   # City Event / Parallel Slalom
+Garmisch-Partenkirchen
+Ofterschwang
+
+
+

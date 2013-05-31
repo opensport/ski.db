@@ -4,25 +4,6 @@
 
 #### todo: add region e.g. T,V,BY, etc. see world.db for region keys
 
-
-Sölden, at
-Kitzbühel, at
-Semmering, at
-St. Anton, at
-Flachau,at
-
-
-München, de   # City Event
-Garmisch-Partenkirchen, de
-Ofterschwang, de
-
-
-Adelboden, ch
-Wengen, ch
-Lenzerheide, ch
-St. Moritz, ch
-
-
 Gröden, it
 Alta Badia, it
 Madonna di Campigliio, it
