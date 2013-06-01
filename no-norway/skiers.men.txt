@@ -1,6 +1,8 @@
 #############################
 # Norway - no
 
-Aksel Lund Svindal
-Kjetil Jansrud
+Aksel Lund Svindal,  26 Dec 1982, Lørenskog
+Kjetil Jansrud,      25 Aug 1985, Stavanger
+
+
 

@@ -1,4 +1,5 @@
 ###########################
 # Croatia - hr
 
-Ivica Kostelić
+Ivica Kostelić,  23 Nov 1979, Zagreb
+

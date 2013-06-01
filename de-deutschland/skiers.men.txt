@@ -1,6 +1,7 @@
 #################################
 # Deutschland - de
 
-Fritz Dopfer
-Felix Neureuther
+Fritz Dopfer,      24 Aug 1987, Innsbruck | Tirol, at  # Born in Austria
+Felix Neureuther,  26 Mar 1984,  München-Pasing | Bayern
+Stefan Luitz,      26 Mar 1992
 

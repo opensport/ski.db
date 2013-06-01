@@ -1,7 +1,9 @@
 ################################
 # United States - us
 
-Ted Ligety,    31 Aug 1984, Salt Lake City | Utah
-Bode Miller,   12 Oct 1977, Easton | New Hampshire
+Ted Ligety,      31 Aug 1984, Salt Lake City | Utah
+Bode Miller,     12 Oct 1977, Easton | New Hampshire
+Marco Sullivan,  27 Apr 1980, Truckee | California
+Steven Nyman,    12 Feb 1982, Provo | Utah
 
 

@@ -1,9 +1,8 @@
 ##############################
 # France - fr
 
-Alexis Pinturault
+Alexis Pinturault,   20 Mar 1991,  Moûtiers | Savoie
 Adrien Théaux
-Thomas Mermillod Blondin
-
-
+Thomas Mermillod Blondin, 3 Jan 1984,  Annecy | Haute Savoie
+Thomas Fanara,      24 Apr 1981,  Annecy | Haute-Savoie
 
