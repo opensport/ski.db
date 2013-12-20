@@ -1,6 +1,4 @@
-#################
-# todo: use tracks.txt insteaod of circuits.txt
-#   - check what fits best
+
 
 #### todo: add region e.g. T,V,BY, etc. see world.db for region keys
 

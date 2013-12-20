@@ -1,0 +1,14 @@
+
+all:
+#- seasons
+#- leagues
+# -- tracks/circuits
+- tracks
+- at-austria/tracks
+- ch-switzerland/tracks
+#- drivers
+#- teams
+
+
+#2012_13:
+#- races
