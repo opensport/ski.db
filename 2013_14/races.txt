@@ -1,3 +1,51 @@
 #############################
 # Ski Alpine 2013/14 - Men
 
+####  todo: add auto pos# for races (no need to specify)
+## todo: check allow date time separated with two spaces e.g. 2013  9:30 ??
+# todo: add weekday (e.g. mon,tue, etc.)
+
+# todo: add races ladies
+# todo: add more skiers (e.g. world cup leaders)
+
+
+(1) 27 Oct 2013 9:30  Sölden (AUT) / Riesenslalom
+
+(2) 17 Nov 2013 10:00  Levi (FIN) / Slalom
+(3) 30 Nov 2013 20:00  Lake Louise (CAN) / Abfahrt
+
+(4) 1 Dec 2013 19:00  Lake Louise (CAN) / Super G
+(5) 6 Dec 2013 19:00  Beaver Creek (USA) / Abfahrt
+(6) 7 Dec 2013 18:45  Beaver Creek (USA) / Super G
+(7)  8 Dec 2013 17:45  Beaver Creek (USA) / Riesenslalom
+(8) 14 Dec 2013 10:00  Val d'Isere (FRA) / Riesenslalom
+(9) 15 Dec 2013 9:30  Val d'Isere (FRA) / Slalom
+(10) 20 Dec 2013 12:15  Val Gardena (ITA) / Super G
+(11) 21 Dec 2013 12:15  Val d'Isere (FRA) / Abfahrt
+(12) 22 Dec 2013 9:30  Alta Badia (ITA) / Riesenslalom
+
+(13)  1 Jan 2014 16:45   München (GER) / City Event
+(14)  6 Jan 2014 14:45   Zagreb (CRO) / Slalom
+(15) 11 Jan 2014 10:30   Adelboden (SUI) / Riesenslalom
+(16) 12 Jan 2014 10:30   Adelboden (SUI) / Slalom
+(17) 17 Jan 2014 10:30   Wengen (SUI) / Kombination
+(18) 18 Jan 2014 12:30   Wengen (SUI) / Abfahrt
+(19) 19 Jan 2014 10:15   Wengen (SUI) / Slalom
+(20) 24 Jan 2014 11:30   Kitzbühel (AUT) / Kombination
+(21) 25 Jan 2014 11:30   Kitzbühel (AUT) / Abfahrt
+(22) 26 Jan 2014 10:15   Kitzbühel (AUT) / Slalom
+(23) 28 Jan 2014 17:45   Schladming (AUT) / Slalom
+(24) 29 Jan 2014 11:45   Bormio (ITA) / Abfahrt
+
+(25)  1 Feb 2014 11:45   Garmisch-Partenkirchen (GER) / Abfahrt
+(26)  2 Feb 2014 10:30   Garmisch-Partenkirchen (GER) / Riesenslalom
+
+(27)  1 Mar 2014 11:45   Kvitfjell (NOR) / Abfahrt
+(28)  2 Mar 2014 11:30   Kvitfjell (NOR) / Super G
+(29)  8 Mar 2014 9:30   Kranjska Gora (SLO) / Riesenslalom
+(30)  9 Mar 2014 9:30   Kranjska Gora (SLO) / Slalom
+(31) 12 Mar 2014 9:30   Lenzerheide (SUI) / Abfahrt
+(32) 13 Mar 2014 9:30   Lenzerheide (SUI) / Super G
+(33) 15 Mar 2014 10:00   Lenzerheide (SUI) / Riesenslalom
+(34) 16 Mar 2014 9:00   Lenzerheide (SUI) / Slalom
+

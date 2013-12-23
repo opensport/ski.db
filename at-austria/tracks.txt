@@ -1,9 +1,13 @@
 ##############################
 # Austria - at
 
+## todo: add bundesland e.g. S, T, ST, etc.
+
 Sölden
 Kitzbühel
 Semmering
 St. Anton
 Flachau
+Schladming
+
 
